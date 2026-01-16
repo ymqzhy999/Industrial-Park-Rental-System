@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.env
+
+# Node/Vue
+node_modules/
+dist/
+npm-debug.log
+
+# System
+.DS_Store
