@@ -112,7 +112,7 @@ venv\Scripts\activate
 source venv/bin/activate
 
 # 2. 安装项目依赖
-pip install -r requirements.txt
+pip install -r requirements.txt -i https://mirrors.aliyun.com/pypi/simple
 
 # 3. 启动服务
 python run.py
@@ -139,4 +139,5 @@ npm run dev
 ### Step 4: 访问与测试
 
 打开浏览器访问 `http://127.0.0.1:5173`，即可开始演示。
+
 求一颗小星星 ❤️ ❤️ ❤️ ❤️ ❤️ 
